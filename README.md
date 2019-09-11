@@ -13,7 +13,7 @@ Key features:
 - Supported OS: Win, MacOs, Nix
 - Fast transactions for Business & DAPPs
 - Native Light Wallet(without blockchain) & Mobile Wallets Support
-- Providing communication between other segments of the SmartHoldem network (Level-B, GameChains(Proof-of-Play), SideChains & imp*) based on cryptographic ops
+- Providing communication between other segments of the SmartHoldem network (Level-B, GameChains(Proof-of-Play), SideChains & Impe*) based on cryptographic ops
 - Effective Sharding + Load balancer
 - Routing
 - scalability combustion coins (Dynamic economic model)
